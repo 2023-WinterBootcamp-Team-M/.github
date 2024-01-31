@@ -79,7 +79,9 @@
 
 ## 🖥️Monitoring Tools
 > Prometheus & Grafana
-> 
+
+![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/7d5b8c96-2c0d-4369-b5c8-6cca2e18b0fd)
+
 
 <br>
 
