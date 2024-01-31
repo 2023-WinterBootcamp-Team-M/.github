@@ -94,37 +94,37 @@
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="">
-                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/64aa20a2-96dd-49fe-9918-d0002b70b90a" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/64aa20a2-96dd-49fe-9918-d0002b70b90a" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
              <a href="">
-                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/65f23003-4f6f-4339-8561-a72618e00b9c" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/1daeefc7-dc94-44b5-a9d0-63de71eeba45" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
              <a href="">
-                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/27fc8b2e-a763-4277-8273-1079812c3ec1" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/56796daf-5ee1-4380-b608-899883cddb6b" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
              <a href="">
-                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/2e075df2-8e4e-4426-bfd4-aa4e0768bf79" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/fceaf8ef-fbce-4e8a-998c-f601dd0652a6" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
              <a href="">
-                <img src="" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/be055603-9c36-4537-bc43-528c9c3c616d" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
             <a href="">
-                <img src="" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/91ee7965-10a5-435d-a896-90aff4ce2c53" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
             <a href="">
-                <img src="" width="60" height="60">
+                <img src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/0d8cb199-54f2-4bc6-808b-69cd635e60b6" width="70" height="70">
             </a>
         </td>
     </tr>
@@ -211,4 +211,3 @@
 <br>
 
 ## 📝Blog
-
