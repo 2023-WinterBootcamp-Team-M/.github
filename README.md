@@ -1,10 +1,12 @@
 # 유용한 북마크 관리, url 이미지 추출 익스텐션 ClipTab
-> **GPT를 활용한 똑똑한 북마크와 URL 이미지 클립보드 활용**
+> **GPT를 활용한 똑똑한 북마크와 URL 이미지 클립보드 활용**<br>
+
+
 저희 서비스는 사용자가 **북마크를 통해 웹 페이지에 진입하기 전에** 간단한 정보를 확인할 수 있도록 **웹 페이지의 내용을 GPT로 요약**하여 제공하는 기능을 하는 **익스텐션**입니다. 그 뿐만 아니라, 특정 **URL에서 이미지를 추출하여 클립보드에 저장**하고 **활용**하는 기능도 함께 제공합니다.
 
 <br>
 
-## What is Cliptab
+## ❓What is Cliptab
 **1.GPT를 통한 북마크 요약 제공**
 ```
 1. 북마크 생성 시 해당 북마크의 url page 스크래핑
@@ -26,12 +28,12 @@
 ```
 <br>
 
-## Table of Contents
+## 🗂️Table of Contents
 
- - [System Architecture](#system-architecture)
- - [Tech Stack](#tech-stack)
  - [Service Flow](#service-flow)
  - [Onboarding Page](#onboarding-page)
+ - [System Architecture](#system-architecture)
+ - [Tech Stack](#tech-stack)
  - [ERD](#erd)
  - [API](#api)
  - [Monitoring Tools](#monitoring-tools)
@@ -40,12 +42,20 @@
 
 <br>
 
-## System Architecture
+## 🔍Service Flow
+
+<br>
+
+## 📄Onboarding Page
+
+<br>
+
+## 🚧System Architecture
 
 
 <br>
 
-## Tech Stack
+## 📚Tech Stack
 
 | Frontend | Backend | DevOps | Monitoring | ETC |
 |:--------:|:-------:|:------:|:----------:|:---:|
@@ -53,33 +63,27 @@
 
 <br>
 
-## Service Flow
-
-<br>
-
-## Onboarding Page
-
-<br>
-
-## ERD
-
+## 🗄️ERD
 <img width="924" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/1aadd423-b3cb-425b-8463-ecfd5d7d5e83">
 
 <br>
 
-## API
+## 🔌API
+<img width="1287" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/591b746b-deaf-4a59-ab0d-4efbefee1f2a">
+<img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/9d77fa48-748d-42ac-bc0f-57476a36911b">
+<img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/f85993c0-6868-49ac-9eae-754616d1120e">
+<img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/5d7dd03a-895f-454d-b1b8-641cd6f2abb1">
 
 
 <br>
 
-## Monitoring Tools
-
+## 🖥️Monitoring Tools
 > Prometheus & Grafana
 > 
 
 <br>
 
-## Member
+## 🙋🏻🙋Member
 <table width="1000">
     <thead>
     </thead>
@@ -204,4 +208,4 @@
 
 <br>
 
-## Blog
+## 📝Blog
