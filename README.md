@@ -69,10 +69,11 @@
 <br>
 
 ## 🔌API
-<img width="1287" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/591b746b-deaf-4a59-ab0d-4efbefee1f2a">
+<img width="1288" alt="image" src="https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/5e354848-4161-4fc9-804a-362c4f867e6a">
 <img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/9d77fa48-748d-42ac-bc0f-57476a36911b">
 <img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/f85993c0-6868-49ac-9eae-754616d1120e">
 <img width="1288" alt="image" src="https://github.com/lsh1215/practice/assets/75378429/5d7dd03a-895f-454d-b1b8-641cd6f2abb1">
+
 
 
 <br>
