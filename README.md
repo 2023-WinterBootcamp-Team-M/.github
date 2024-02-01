@@ -31,7 +31,6 @@
 ## 🗂️Table of Contents
 
  - [Service Flow](#service-flow)
- - [Onboarding Page](#onboarding-page)
  - [System Architecture](#system-architecture)
  - [Tech Stack](#tech-stack)
  - [ERD](#%EF%B8%8Ferd)
@@ -43,10 +42,12 @@
 <br>
 
 ## 🔍Service Flow
-
-<br>
-
-## 📄Onboarding Page
+### 시작 페이지
+![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/ca7caa9d-92f7-45cb-84b9-06acd823dee4)
+### 북마크 폴더 자동분류 및 요약
+![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/6886432a-fcb8-41e8-81e3-aa22cdc639e2)
+### 이미지 추출
+![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/fd609d7b-76e7-4f0c-9b23-04a421e6b3c4)
 
 <br>
 
@@ -213,3 +214,4 @@
 <br>
 
 ## 📝Blog
+https://medium.com/p/755b3448266b/edit
