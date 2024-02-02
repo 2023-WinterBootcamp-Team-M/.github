@@ -45,12 +45,8 @@
 <br>
 
 ## 🔍Service Flow
-### 시작 페이지
-![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/ca7caa9d-92f7-45cb-84b9-06acd823dee4)
-### 북마크 폴더 자동분류 및 요약
-![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/6886432a-fcb8-41e8-81e3-aa22cdc639e2)
-### 이미지 추출
-![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/fd609d7b-76e7-4f0c-9b23-04a421e6b3c4)
+![데모2배속](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/2dbffd61-14bc-4e62-b61a-6cd223c594af)
+
 <br>
 
 
