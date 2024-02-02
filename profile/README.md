@@ -1,4 +1,6 @@
 # 유용한 북마크 관리, url 이미지 추출 익스텐션 ClipTab
+![clip-tab 4](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/86238348/1bdd79ca-de34-4bc8-88ef-fb74f37a049e)
+
 > **GPT를 활용한 똑똑한 북마크와 URL 이미지 클립보드 활용**<br>
 
 
