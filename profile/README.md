@@ -54,7 +54,7 @@
 
 
 ## 🚧System Architecture
-![image](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/913bbf08-6709-4047-abd2-6fe12f5212ac)
+![시스템 아키텍쳐](https://github.com/2023-WinterBootcamp-Team-M/.github/assets/75378429/21796f17-3bf8-4661-b09e-d6d4acb205d8)
 
 
 <br>
